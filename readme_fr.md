@@ -23,7 +23,14 @@ Voici un aperçu de mon expertise technique
 
 ### Projets en cours
 
+- **E-commerce real-time data processing project**: [View Project](https://github.com/PetitPoissonL/Spark_Streaming_Real_Time)
+
 ### Projets achevés
+
+- **Machine learning project - Detecting bank card fraud**: [View Project](https://github.com/lfansu35/fouille_donnees_projet)
+- **Data analysis project - New York Taxi**: [View Project](https://github.com/PetitPoissonL/Big-Data-Technologies/blob/main/homework03/homework03.ipynb)
+- **Ray tracing project**: [View Project](https://github.com/PetitPoissonL/Ray_tracing)
+- **Web development project - Car Insurance Official Website**: [View Project](https://github.com/PetitPoissonL/Web_development_project)
 
 ## 🌍 Connectons-nous !
 
