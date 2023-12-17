@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! I'm [Your Name]. After four years as a BI Product Manager, my passion for data engineering grew immensely. This led me to a significant decision - I resigned from my job and moved to France to pursue studies in computer science. I'm currently enrolled in an M2 DATA program, eagerly deepening my understanding and skills in this field. I am actively seeking internship opportunities in data engineering to apply my knowledge and contribute to exciting projects.
+Hello there! I'm Ningyu Li. After four years as a BI Product Manager, my passion for data engineering grew immensely. This led me to a significant decision - I resigned from my job and moved to France to pursue studies in computer science. I'm currently enrolled in an M2 DATA program, eagerly deepening my understanding and skills in this field. I am actively seeking internship opportunities in data engineering to apply my knowledge and contribute to exciting projects.
 
 ## Technical Stack
 
