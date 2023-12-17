@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Version Française ici](https://img.shields.io/badge/Version%20Fran%C3%A7aise%20ici-4406BF)([README_fr.md](https://github.com/PetitPoissonL/PetitPoissonL/blob/main/readme_fr.md))
+[![Version Française ici](https://img.shields.io/badge/Version%20Fran%C3%A7aise%20ici-4406BF)]([README_fr.md](https://github.com/PetitPoissonL/PetitPoissonL/blob/main/readme_fr.md))
 
 ## 🌟 About Me
 
