@@ -30,6 +30,9 @@ Here's an overview of my technical expertise:
 
 - **E-commerce real-time data processing project**: [View Project](https://github.com/PetitPoissonL/Spark_Streaming_Real_Time)
 - **Machine learning project - Detecting bank card fraud**: [View Project](https://github.com/lfansu35/fouille_donnees_projet)
+- **Data analysis project - New York Taxi**: [View Project](https://github.com/PetitPoissonL/Big-Data-Technologies/blob/main/homework03/homework03.ipynb)
+- **Ray tracing project**
+- **Web development project - Car Insurance Official Website**
 
 ## 🌍 Let's Connect!
 
