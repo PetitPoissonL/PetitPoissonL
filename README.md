@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-[![French](path_to_french_flag_icon)](README_fr.md) Version Française ici
+[![Version Française ici](https://img.shields.io/badge/Version%20Fran%C3%A7aise%20ici-4406BF)(README_fr.md)
 
 ## 🌟 About Me
 
