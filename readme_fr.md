@@ -1,7 +1,6 @@
 # Bienvenue sur Mon Profil GitHub !
 
-[![English Version here](https://img.shields.io/badge/English%20Version%20here-4406BF)]([https://github.com/PetitPoissonL/PetitPoissonL/blob/main/readme_fr.md](https://github.com/PetitPoissonL/PetitPoissonL/blob/main/README.md))
-
+[![English Version here](https://img.shields.io/badge/English%20Version%20here-4406BF)](https://github.com/PetitPoissonL/)
 ## 🌟 À Propos de Moi
 
 Bonjour ! Je suis LI Ningyu 🚀. Après quatre ans en tant que Chef de Produit BI, ma passion pour l'ingénierie des données a énormément grandi. Cela m'a conduit à une décision significative - j'ai démissionné de mon emploi et déménagé en France pour poursuivre des études en informatique. Je suis actuellement inscrit dans un programme Master 2 DATA, approfondissant avec enthousiasme ma compréhension et mes compétences dans ce domaine. Je recherche activement des opportunités de stage en ingénierie des données pour appliquer mes connaissances et contribuer à des projets passionnants.
