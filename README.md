@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile!
 
-[![Version Française ici](https://img.shields.io/badge/Version%20Fran%C3%A7aise%20ici-4406BF)]([README_fr.md](https://github.com/PetitPoissonL/PetitPoissonL/blob/main/readme_fr.md))
+[![Version Française ici](https://img.shields.io/badge/Version%20Fran%C3%A7aise%20ici-4406BF)](https://github.com/PetitPoissonL/PetitPoissonL/blob/main/readme_fr.md)
 
-## 🌟 About Me
+## 🌟 This is Ningyu Li!
 
-Hello there! I'm Ningyu Li 🚀. After four years as a BI Product Manager, my passion for data engineering grew immensely. This led me to a significant decision - I resigned from my job and moved to France to pursue studies in computer science. I'm currently enrolled in an M2 DATA program, eagerly deepening my understanding and skills in this field. I am actively seeking internship opportunities in data engineering to apply my knowledge and contribute to exciting projects.
+Hello there! I'm Ningyu Li 🚀. After four years as a BI Product Manager, my passion for data engineering grew immensely. This led me to a significant decision - I resigned from my job and moved to France to pursue studies in computer science. I'm currently enrolled in an Master 2 DATA program, eagerly deepening my understanding and skills in this field. I am actively seeking internship opportunities in data engineering to apply my knowledge and contribute to exciting projects.
 
 ## 💻 Technical Stack
 
@@ -24,16 +24,17 @@ Here's an overview of my technical expertise:
 
 ### Ongoing Projects
 
-- **[E-commerce offline data warehouse project]**: Brief description of the project. [Link to the project](#)
+- **E-commerce offline data warehouse project**: [View Project](https://github.com/PetitPoissonL/Spark_Streaming_Real_Time)
 
 ### Completed Projects
 
-- **[E-commerce real-time data processing project]**: [View Project]([link_to_project](https://github.com/PetitPoissonL/Spark_Streaming_Real_Time))
-- **[Machine learning project - Detecting bank card fraud]**: [View Project]（[Link to the project](https://github.com/lfansu35/fouille_donnees_projet))
+- **E-commerce real-time data processing project**: [View Project](https://github.com/PetitPoissonL/Spark_Streaming_Real_Time)
+- **Machine learning project - Detecting bank card fraud**: [View Project](https://github.com/lfansu35/fouille_donnees_projet)
 
 ## 🌍 Let's Connect!
 
-Feel free to reach out to me on [LinkedIn]([#YourLinkedInProfile](https://www.linkedin.com/in/ningyu-li/)), or via email at [YourEmail](leeningyu@gmail.com).
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ningyu-li/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](leeningyu@gmail.com)
 
 ---
 
