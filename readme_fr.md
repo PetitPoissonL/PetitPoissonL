@@ -19,6 +19,13 @@ Voici un aperçu de mon expertise technique
 
 - **Outils d'ingénierie des données**: ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=flat-square&logo=apachehadoop) ![AWS Data Stack](https://img.shields.io/badge/-AWS_Data_Stack-black?style=flat-square&logo=amazonaws) ![Spark](https://img.shields.io/badge/-Spark-black?style=flat-square&logo=apachespark) ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=elasticsearch) ![Kibana](https://img.shields.io/badge/-Kibana-black?style=flat-square&logo=kibana)
 
+## 🏅 Certifications Professionnelles
+
+<a href="https://www.credly.com/badges/16c88eee-40d5-4f26-bac7-8e0d678d22ce/public_url">
+    <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100" alt="AWS Solutions Architect - Associate"/>
+</a>
+<br>
+
 ## 📚 Projets
 
 ### Projets en cours
