@@ -34,6 +34,7 @@ Voici un aperçu de mon expertise technique
 
 ### Projets achevés
 
+- **Projet ETL - Présence des lions**: [View Project](https://github.com/PetitPoissonL/Project_ETL)
 - **Machine learning project - Detecting bank card fraud**: [View Project](https://github.com/PetitPoissonL/Machine_learning_project_Detecting_credit_card_fraud)
 - **Data analysis project - New York Taxi**: [View Project](https://github.com/PetitPoissonL/Big-Data-Technologies/blob/main/homework03/homework03.ipynb)
 - **Ray tracing project**: [View Project](https://github.com/PetitPoissonL/Ray_tracing)
