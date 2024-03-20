@@ -35,6 +35,7 @@ Here's an overview of my technical expertise:
 
 ### Completed Projects
 
+- **Project Power BI**: [View Project](https://github.com/PetitPoissonL/Projet-d-analyse-et-visualisation-des-ventes-avec-Power-BI)
 - **Project ETL - the presence of lions**: [View Project](https://github.com/PetitPoissonL/Project_ETL)
 - **Machine learning project - Detecting bank card fraud**: [View Project](https://github.com/PetitPoissonL/Machine_learning_project_Detecting_credit_card_fraud)
 - **Data analysis project - New York Taxi**: [View Project](https://github.com/PetitPoissonL/Big-Data-Technologies/blob/main/homework03/homework03.ipynb)
