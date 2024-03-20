@@ -25,7 +25,10 @@ Here's an overview of my technical expertise:
 <a href="https://www.credly.com/badges/16c88eee-40d5-4f26-bac7-8e0d678d22ce/public_url">
     <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100" alt="AWS Solutions Architect - Associate"/>
 </a>
-<br>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/NingyuLI-8001/802AF8A571DBEF66?sharingId=C8310108062697BD">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="100" height="100" alt="Power BI Data Analyst Associate"/>
+</a>
+
 
 ## 📚 Projects
 
